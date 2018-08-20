@@ -1,9 +1,10 @@
 # SkyTap
-Это демонстрационный проект для SDK Corona, использующий модульную разработку игр. Он включает в себя бесплатные модули для общих игровых функций, в том числе:
+This is a demonstration project for SDK Corona, using modular game development. It includes free modules for general
+gaming functions, including:
 
-Этот проэкт включает в себя некоторые вещи в том числе:
-Общее меню из нескольких объектов
-Меню с уровнями :
+This project includes some things including:
+General menu of several objects
+Menus with levels :
 2.Уровень 1 
 3.Уровнь 2
 4.Уровень 3
