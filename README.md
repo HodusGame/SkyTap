@@ -5,18 +5,20 @@ gaming functions, including:
 This project includes some things including:
 General menu of several objects
 Menus with levels :
-2.Уровень 1 
-3.Уровнь 2
-4.Уровень 3
-5.Уровень 4
-6.Уровень 5
-Меню магазина , состящие из 9 блоков с разными скинами (по 25 AllPoint)
-All point (общий счет , после проигрыша не онуляется)
-Game point (игровой счет , онуляется после проигрыша)
-Кнопка рестарта... 
+2.lvl 1 
+3.lvl 2
+4.lvl 3
+5.lvl 4
+6.lvl 5
+The menu of the store, consisting of 9 blocks with different skins (by 25 AllPoint)
+All point (the total account, after loss is not nullified)
+Game point (game account, is reset after losing)
 
-Весь код находится в одном файле (main.lua)
-Вся графика находятся  в общей папке (34 спрайта) 
+Restart button... 
+
+All code is in one file (main.lua)
+
+All graphics are in a shared folder (34 sprite) 
 
 
 
